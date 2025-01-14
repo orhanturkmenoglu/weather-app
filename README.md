@@ -16,4 +16,5 @@ Teknolojiler:
 HTML5
 CSS3
 JavaScript
+JQUERY
 OpenWeatherMap API
